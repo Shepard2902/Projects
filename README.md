@@ -1,4 +1,4 @@
-Here is a overview of the projects in this repository:
+Here is an overview of the projects in this repository:
 
 1st project: Positive Voltage Regulator - This represents the first big project that i did in my 3rd year in university. My contribution to this project was the schematic design and the choosing the right components to fit the desired input and output voltage. I also did the hand calculus in order to check if the regulator will work and to help in choosing the components. Later i also made the surface mount (SMT)  version of the circuit in Proteus 8 along with making the PCB that can be checked in the file Positive_Voltage_Regulator_SMT.
 
